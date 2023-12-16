@@ -25,8 +25,8 @@ Cílem tohoto úkolu je hlavně vyzkoušet si základní práci s generátorem s
 - **Vytvoření šablony**
   - všech pět stránek webu má společnou hlavičku a patičku
   - vytvoř ze společných částí šablonu podle instrukcí v lekci **Eleventy - První šablona**
-  - v HTML stránkách nech pouze obsah unikátní pro danou stránku
-  - do stránek přidej **front matter** a nastav stránky tak, aby používaly vytvořenou šablonu
+  ? v HTML stránkách nech pouze obsah unikátní pro danou stránku
+  ? do stránek přidej **front matter** a nastav stránky tak, aby používaly vytvořenou šablonu
   - v HTML (v šabloně i v obsahu) a v CSS uprav cesty k obrázkům, stylům, apod. tak, aby začínaly lomítkem a ukazovaly na správné soubory
   - v šabloně uprav menu, aby ukazovalo na správné adresy stránek, až Eleventy vygeneruje výsledný web
 - **Práce s Gitem**
